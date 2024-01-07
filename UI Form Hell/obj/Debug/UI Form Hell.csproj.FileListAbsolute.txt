@@ -1,0 +1,24 @@
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\bin\Debug\UI Form Hell.exe.config
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\bin\Debug\UI Form Hell.exe
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\bin\Debug\UI Form Hell.pdb
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.Form1.resources
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.GameForm.resources
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.Properties.Resources.resources
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.csproj.GenerateResource.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.exe
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.pdb
+F:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.Guess.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\bin\Debug\UI Form Hell.exe.config
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\bin\Debug\UI Form Hell.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\bin\Debug\UI Form Hell.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.Form1.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.GameForm.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.Guess.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI_Form_Hell.Properties.Resources.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.csproj.GenerateResource.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\UI Form Hell\obj\Debug\UI Form Hell.pdb

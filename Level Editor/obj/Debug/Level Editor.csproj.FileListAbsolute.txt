@@ -1,0 +1,22 @@
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\bin\Debug\Level Editor.exe.config
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\bin\Debug\Level Editor.exe
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\bin\Debug\Level Editor.pdb
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level_Editor.Form1.resources
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.exe
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\bin\Debug\Level Editor.exe.config
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\bin\Debug\Level Editor.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\bin\Debug\Level Editor.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level_Editor.Form1.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level Editor.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level_Editor.Editor.resources
+F:\School Stuff\RIT\GDAPS 1\Homework\Level Editor\obj\Debug\Level_Editor.Editor.resources

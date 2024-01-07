@@ -1,0 +1,19 @@
+John Pionzio
+Section 105-01 GDAPS 1
+
+The theme for my form is a number guessing game.  I chose this form because I had few other ideas and I was able to build it off of the GuessingGame practice excercise
+
+
+What the first form, Form1, does is it prompts the user for a minimum and maximum for a number set as well as a time limit, all of which are displayed in the error box after being successfully entered.  However, the order of these numbers isn't specified, and the "enter" buttons and error boxes are not aligned with the input slot or with each other.  The default value for the minimum is 69, the maximum is 420, and time is 1 second.  The user must then click the "Ready" button to open the second form, where the game is played.  If for any reason the user activated the enter buttons with an invalid imput, the word "No" is displayed in the error box and the value associated with that box is set to the default.
+
+
+The order of the number slots, from left to right, is minimum, maximum, and time limit.  When the user types in a number to any of the slots, they must then mouse-over the corresponding enter button.  The order of the enter buttons, from left to right, is time limit, minimum, and maximum.  The order of the enter buttons, from left to right, is maximum, time limit, minimum.
+
+
+What the second form, GameForm, does is it prompts the user to guess a number.  The form consists of two large buttons, the "Start" button and the "Guess" button, the latter is inactive when the form is first loaded.  The start button is activated by mousing-over it, and initiates the timer, which is not displayed, activates the the "guess" button, deactivates the "start" button, and changes the color of the window.  When the guess button is clicked, it opens the third and final form, Guess.
+
+
+The Guess form consists of three items, a drop-down list box, a checkbox, and a very large "Guess" button, which is not active upon loading the form.  The drop-down list contains all possible numbers within the range provided in the first form, and the user must select one of them to procede.  The user must then select the checkbox to enable the guess button, and the guess button itself is activated by pressing the spacebar.  If the timer runs out while the third window is open, it is closed imediately.
+
+
+After entering a number in the third form, the form closes and the user returns to the second form, where a message is displayed in a message box about whether their guess is too high or too low.  If the timer runs out, a message informing the user of their failure is displayed, and the start button is reactivated, allowing the user to start again.  If the user successfully guesses the number, a message congradulating them is displayed and the start button is reactivated.  In both cases, a small "Close" button will appear on the right side of the start button, which the user must press if they want to adjust the settings of the guessing game.  Of course, the form can be stopped at any time by simply closing the windows manually.  If the user activates the start button again, the message and close button will dissapear and the game will start again, trapping the user until the timer expires.

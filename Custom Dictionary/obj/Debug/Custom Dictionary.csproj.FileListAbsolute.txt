@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\bin\Debug\Custom Dictionary.exe.config
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\bin\Debug\Custom Dictionary.exe
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\bin\Debug\Custom Dictionary.pdb
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.exe
+F:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\bin\Debug\Custom Dictionary.exe.config
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\bin\Debug\Custom Dictionary.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\bin\Debug\Custom Dictionary.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary\obj\Debug\Custom Dictionary.pdb

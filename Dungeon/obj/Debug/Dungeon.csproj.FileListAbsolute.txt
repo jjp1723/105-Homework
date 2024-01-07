@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\bin\Debug\Dungeon.exe.config
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\bin\Debug\Dungeon.exe
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\bin\Debug\Dungeon.pdb
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\obj\Debug\Dungeon.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\obj\Debug\Dungeon.exe
+F:\School Stuff\RIT\GDAPS\(Homework)\Dungeon\obj\Debug\Dungeon.pdb

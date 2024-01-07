@@ -1,0 +1,7 @@
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\bin\Debug\Custom Dictionary With Bucket.exe.config
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\bin\Debug\Custom Dictionary With Bucket.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\bin\Debug\Custom Dictionary With Bucket.pdb
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\obj\Debug\Custom Dictionary With Bucket.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\obj\Debug\Custom Dictionary With Bucket.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\obj\Debug\Custom Dictionary With Bucket.exe
+G:\School Stuff\RIT\GDAPS 1\Homework\Custom Dictionary With Bucket\Custom Dictionary With Bucket\obj\Debug\Custom Dictionary With Bucket.pdb

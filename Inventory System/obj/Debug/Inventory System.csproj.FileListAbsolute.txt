@@ -1,0 +1,7 @@
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\bin\Debug\Inventory System.exe.config
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\bin\Debug\Inventory System.exe
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\bin\Debug\Inventory System.pdb
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\obj\Debug\Inventory System.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\obj\Debug\Inventory System.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\obj\Debug\Inventory System.exe
+G:\School Stuff\RIT\GDAPS\Homework\Inventory System\obj\Debug\Inventory System.pdb

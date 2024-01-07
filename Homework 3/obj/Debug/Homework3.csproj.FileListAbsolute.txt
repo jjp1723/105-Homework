@@ -1,0 +1,28 @@
+D:\Chris\Desktop\Homework3_Starter\bin\Debug\Homework3.exe.config
+D:\Chris\Desktop\Homework3_Starter\bin\Debug\Homework3.exe
+D:\Chris\Desktop\Homework3_Starter\bin\Debug\Homework3.pdb
+D:\Chris\Desktop\Homework3_Starter\obj\Debug\Homework3.csprojAssemblyReference.cache
+D:\Chris\Desktop\Homework3_Starter\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+D:\Chris\Desktop\Homework3_Starter\obj\Debug\Homework3.exe
+D:\Chris\Desktop\Homework3_Starter\obj\Debug\Homework3.pdb
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\bin\Debug\Homework3.exe.config
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\bin\Debug\Homework3.exe
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\bin\Debug\Homework3.pdb
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\obj\Debug\Homework3.csprojAssemblyReference.cache
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\obj\Debug\Homework3.exe
+D:\Erin\Dropbox\2191 - GDAPS 1\Homework\Homework 3 - Monsters\Homework3_Starter\obj\Debug\Homework3.pdb
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\bin\Debug\Homework3.exe.config
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\bin\Debug\Homework3.exe
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\bin\Debug\Homework3.pdb
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.exe
+F:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.pdb
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\bin\Debug\Homework3.exe.config
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\bin\Debug\Homework3.exe
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\bin\Debug\Homework3.pdb
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.exe
+G:\School Stuff\RIT\GDAPS\Homework\Homework3_Starter\obj\Debug\Homework3.pdb
